@@ -11,7 +11,7 @@
 <p>MIPPIA Inc.</p>
 
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/ICASSP2026-MPD/)
-[![Demo Page](https://img.shields.io/badge/Demo-Page-red)]()
+[![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/MPD-demo)
 
 </div>
 
