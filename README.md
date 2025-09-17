@@ -15,14 +15,13 @@
 
 </div>
 
-## Music Segment Transcription(Light)
-
-
-## Usage
+## Transcription Demo Usage
 ```bash
 python inference.py {wav_path}
 ```
 This will analyze the audio file and provide simple transcription results with musical segment information, same as demo page.
+
+Please use this demo for only understanding the concept of segment-level matching!
 
 ## SMP Dataset Overview
 
