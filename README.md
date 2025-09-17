@@ -15,9 +15,16 @@
 
 </div>
 
+## Music Segment Transcription(Light)
+
+
+## Usage
+```bash
+python inference.py {wav_path}
+```
+This will analyze the audio file and provide simple transcription results with musical segment information, same as demo page.
 
 ## SMP Dataset Overview
-
 
 The SMP (Segment-based Music Plagiarism) dataset contains music plagiarism detection pairs with temporal segment annotations. Each row represents a pair of songs with identified similar segments.
 
